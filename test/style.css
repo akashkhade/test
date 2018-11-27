@@ -1,0 +1,72 @@
+.navbar-inverse{
+	height: 40px;
+}
+.div{
+	background-image: url(img1.jpg);
+	background-size: cover;
+	height: 401px;
+	margin-top: -19px;
+	width: 100%;
+}
+.h{
+	font-family: cursive;
+    font-size: 91px;
+    margin: 146px 274px;
+}
+.img{
+	margin-left: 200px;
+    margin-top: -75px;
+    width: 165px;
+}
+.im{
+	margin-left: 120px;
+    margin-right: 120px;
+    margin-top: -75px;
+    width: 165px;
+}
+.ig{
+	margin-top: -75px;
+    width: 165px;
+}
+p{
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 19px;
+}
+.con{
+	    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-left: 100px;
+}
+hr{
+	height: 10px;
+	color: yellowgreen;
+}
+div.b {
+    height: 14px;
+    border: 1px solid #f7c200; 
+    background-color:#f7c200;
+}
+.footer{
+	height: 150px;
+	background-color: black;
+	color: white;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 30px;
+
+    margin-left: 70px;
+}
+
+th {
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+   color: #f7c200;
+       padding-bottom: 20px;
+}
